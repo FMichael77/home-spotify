@@ -1,4 +1,4 @@
-# Spotify Home Page
+## Spotify Home Page
 Home Page do Spotify recriada usando componentes Bootstrap.
 
 #### GitHub Pages do projeto
